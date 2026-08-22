@@ -7,6 +7,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-DA020E?style=for-the-badge&logo=linkedin&logoColor=ffd700)](https://linkedin.com/in/aaryan-kumar-singh-94a000287)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=DA020E)](https://github.com/AaryanKumarSingh136)
 
+<br>
+
+> *"Racing is a mania, a passion that gets in the blood."*
+> **— Enzo Ferrari**
+
 </div>
 
 <br>
@@ -98,11 +103,42 @@ Fully local-first LLM auditing pipeline — zero cloud dependency, hybrid retrie
 
 <div align="center">
 
-### 🔥 CONTRIBUTION FIELD
+### 🏁 TRACK DAY
 
-![Snake](https://raw.githubusercontent.com/AaryanKumarSingh136/AaryanKumarSingh136/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<svg width="500" height="180" viewBox="0 0 500 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="180" fill="#0a0a0a" rx="10"/>
+  <path id="track" d="M 60,100 A 190,60 0 1,1 440,100 A 190,60 0 1,1 60,100"
+        fill="none" stroke="#3a3a3a" stroke-width="26"/>
+  <path d="M 60,100 A 190,60 0 1,1 440,100 A 190,60 0 1,1 60,100"
+        fill="none" stroke="#ffd700" stroke-width="1.5" stroke-dasharray="8,10"/>
+  <g>
+    <rect x="-9" y="-4" width="18" height="8" rx="2" fill="#DA020E"/>
+    <circle cx="-5" cy="4" r="2.6" fill="#111"/>
+    <circle cx="5" cy="4" r="2.6" fill="#111"/>
+    <rect x="-3" y="-6" width="6" height="4" fill="#ffd700"/>
+    <animateMotion dur="4s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#track"/>
+    </animateMotion>
+  </g>
+</svg>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AaryanKumarSingh136&bg_color=0a0a0a&color=ffd700&line=da020e&point=ffffff&hide_border=true)
+### ⚽ MATCH DAY
+
+<svg width="500" height="180" viewBox="0 0 500 180" xmlns="http://www.w3.org/2000/svg">
+  <rect width="500" height="180" fill="#0b3d0b" rx="10"/>
+  <rect x="15" y="15" width="470" height="150" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <line x1="250" y1="15" x2="250" y2="165" stroke="#ffffff" stroke-width="2"/>
+  <circle cx="250" cy="90" r="30" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <rect x="15" y="55" width="45" height="70" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <rect x="440" y="55" width="45" height="70" fill="none" stroke="#ffffff" stroke-width="2"/>
+  <path id="dribble" d="M 40,140 C 150,40 200,150 250,90 S 400,30 460,110" fill="none" stroke="none"/>
+  <circle r="7" fill="#ffffff" stroke="#DA020E" stroke-width="1.5">
+    <animateMotion dur="4.5s" repeatCount="indefinite" rotate="auto">
+      <mpath href="#dribble"/>
+    </animateMotion>
+    <animateTransform attributeName="transform" type="rotate" from="0 0 0" to="360 0 0" dur="0.4s" repeatCount="indefinite" additive="sum"/>
+  </circle>
+</svg>
 
 </div>
 
